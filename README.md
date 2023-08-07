@@ -14,7 +14,6 @@ GymPass style app.
 - [x] Deve ser possível validar o check-in de um usuário;
 - [x] Deve ser possível cadastrar uma academia;
 
-
 ## RNs (Regras de negócio)
 
 - [x] O usuário não deve poder se cadastrar com um e-mail duplicado;
@@ -23,7 +22,6 @@ GymPass style app.
 - [x] O check-in só pode ser validado até 20 minutos após ser criado;
 - [x] O check-in só pode ser validado por administradores;
 - [x] A academia só pode ser cadastrada por administradores;
-
 
 
 ## RNFs (Requisitos não-funcionais)
